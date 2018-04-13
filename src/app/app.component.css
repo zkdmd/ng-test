@@ -1,0 +1,10 @@
+.beforeDrop{
+    height:200px;
+    /* background: red; */
+    padding:50px;
+}
+
+.testli{
+    float:left;
+    width:200px;
+}
